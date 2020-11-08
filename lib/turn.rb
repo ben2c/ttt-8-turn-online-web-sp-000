@@ -47,4 +47,5 @@ def turn (board)
     move(board, index)
   else
     puts "Please enter something else"
+  end
 end

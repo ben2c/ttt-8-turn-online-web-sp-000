@@ -1,6 +1,5 @@
 #!/usr/bin/env ruby
-
-require_relative '../lib/move.rb'
+require_relative '../lib/turn.rb'
 
 board = [" "," "," "," "," "," "," "," "," "]
 # Code your CLI Here
